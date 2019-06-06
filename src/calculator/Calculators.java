@@ -58,6 +58,11 @@ public class Calculators {
 		return result;
 	}
 
+	/**
+	 * 输入内容以" "分隔
+	 * 
+	 * @param args
+	 */
 	public static void main(String args[]) {
 		while (true) {
 			Scanner sc = new Scanner(System.in);
